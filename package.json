@@ -1,8 +1,8 @@
 {
-  "name": "q10",
+  "name": "q3",
   "version": "1.0.0",
   "description": "",
-  "main": "ass10.js",
+  "main": "ass3.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
